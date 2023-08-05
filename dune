@@ -1,0 +1,6 @@
+(include_subdirs qualified)
+
+(coq.theory
+  (name ZlistNotAMonad)
+  (package zlist-not-a-monad)
+  (theories ExtLib))
